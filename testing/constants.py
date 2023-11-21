@@ -1,0 +1,6 @@
+BASE_URL = 'https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=1950787'
+VAL_PATH = '/html/body/div[2]/div[2]/div[2]/div/div[4]/div[1]/div[4]/div[2]/div/div/div[2]/div/table/tbody/tr[3]/td[2]'
+DESC_PATH = '/html/body/div[2]/div[2]/div[2]/div/div[4]/div[1]/div[4]/div[2]/div/div/div[3]/div/table/tbody/tr[3]/td[2]'
+CLOSING_DATE_PATH = '/html/body/div[2]/div[2]/div[2]/div/div[4]/div[1]/div[2]/div[2]/div/b[2]'
+DEPT_PATH = '/html/body/div[2]/div[2]/div[2]/div/div[4]/div[1]/div[2]/div[2]/div/b[1]'
+ADDN_DESC_PATH = '/html/body/div[2]/div[2]/div[2]/div/div[4]/div[1]/div[4]/div[2]/div/div/div[3]/div/table/tbody/tr[2]/td[2]'
